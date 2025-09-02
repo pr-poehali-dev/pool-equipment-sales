@@ -208,14 +208,6 @@ const Index = () => {
               <Icon name="Truck" size={20} />
               <span>Быстрая доставка</span>
             </div>
-            <div className="flex items-center gap-2 bg-white/10 px-4 py-2 rounded-full">
-              <Icon name="Shield" size={20} />
-              <span>Официальная гарантия</span>
-            </div>
-            <div className="flex items-center gap-2 bg-white/10 px-4 py-2 rounded-full">
-              <Icon name="Users" size={20} />
-              <span>Профессиональные консультации</span>
-            </div>
           </div>
         </div>
       </section>
