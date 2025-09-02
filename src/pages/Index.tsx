@@ -282,47 +282,7 @@ const Index = () => {
           ))}
         </div>
 
-        {/* Stats Section */}
-        <section className="mt-16 py-12 bg-white rounded-2xl shadow-sm border border-water-200">
-          <div className="text-center mb-12">
-            <h3 className="text-3xl font-bold text-gray-900 mb-4">Почему выбирают нас</h3>
-            <p className="text-gray-600">Более 10 лет на рынке бассейнового оборудования</p>
-          </div>
-          
-          <div className="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
-            <div className="space-y-3">
-              <div className="w-16 h-16 bg-primary-100 rounded-full flex items-center justify-center mx-auto">
-                <Icon name="Package" className="text-primary-600" size={32} />
-              </div>
-              <h4 className="text-2xl font-bold text-gray-900">1000+</h4>
-              <p className="text-gray-600">Товаров в каталоге</p>
-            </div>
-            
-            <div className="space-y-3">
-              <div className="w-16 h-16 bg-primary-100 rounded-full flex items-center justify-center mx-auto">
-                <Icon name="Users" className="text-primary-600" size={32} />
-              </div>
-              <h4 className="text-2xl font-bold text-gray-900">5000+</h4>
-              <p className="text-gray-600">Довольных клиентов</p>
-            </div>
-            
-            <div className="space-y-3">
-              <div className="w-16 h-16 bg-primary-100 rounded-full flex items-center justify-center mx-auto">
-                <Icon name="Clock" className="text-primary-600" size={32} />
-              </div>
-              <h4 className="text-2xl font-bold text-gray-900">24/7</h4>
-              <p className="text-gray-600">Техническая поддержка</p>
-            </div>
-            
-            <div className="space-y-3">
-              <div className="w-16 h-16 bg-primary-100 rounded-full flex items-center justify-center mx-auto">
-                <Icon name="MapPin" className="text-primary-600" size={32} />
-              </div>
-              <h4 className="text-2xl font-bold text-gray-900">50+</h4>
-              <p className="text-gray-600">Городов доставки</p>
-            </div>
-          </div>
-        </section>
+
       </main>
 
       {/* Footer */}
