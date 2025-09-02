@@ -342,7 +342,7 @@ const Index = () => {
                 <div className="w-8 h-8 bg-gradient-to-br from-primary-500 to-water-600 rounded-lg flex items-center justify-center">
                   <Icon name="Waves" className="text-white" size={20} />
                 </div>
-                <span className="text-xl font-bold">AquaPool Store</span>
+                <span className="text-xl font-bold">Акваир</span>
               </div>
               <p className="text-gray-400">Профессиональное оборудование для бассейнов любой сложности</p>
             </div>
