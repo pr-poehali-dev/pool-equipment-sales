@@ -49,7 +49,7 @@ const Index = () => {
   const products: Product[] = [
     {
       id: 1,
-      name: 'Насос центробежный AquaPro 1500',
+      name: 'Насос Aquaviva JA150M (220 В, 21 м3/ч, 1.5HP)',
       price: 45000,
       category: 'equipment',
       warranty: '2 года',
